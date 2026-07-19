@@ -1,0 +1,568 @@
+﻿#EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/all.xml" url-tvg="https://epg.pw/epg/italy" x-tvg-url="https://epg.pw/epg/italy"
+#EXTINF:-1 tvg-name="Rai 1" tvg-logo="https://i.imgur.com/CAx7yRm.png" tvg-id="Rai1.it" tvg-chno="1" tvg-country="IT" group-title="Italy",Rai 1
+https://d3k8wzt41aflvx.cloudfront.net/RAI1/Live.m3u8
+#EXTINF:-1 tvg-name="Rai 1 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/rai1.png" tvg-id="rai1.it" tvg-chno="1" tvg-country="IT" group-title="Italy",Rai 1 FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBITk1qcGs3Zmo3aCt2a2ZLbEdxWHJJVU9CMlAyN0g4VDhMcTYrc01FNjF5dg
+#EXTINF:-1 tvg-name="Rai 1 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/rai1.png" tvg-id="rai1.it" tvg-chno="1" tvg-country="IT" group-title="Italy",Rai 1 HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISGc4em1zWnB3MnlhYmVFZ3plSGp5VFBFZ3IwbWZmVm5TMnN1WXdFNzl3Mw
+#EXTINF:-1 tvg-name="Rai 1 HEVC" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/rai1.png" tvg-id="rai1.it" tvg-chno="1" tvg-country="IT" group-title="Italy",Rai 1 HEVC
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIQURZa2dBNk9XYTlRZEhzM2FWcHg3VW5hOUVUL2ExeHpPaHlUS25SYnpqSg
+#EXTINF:-1 tvg-name="Rai 2" tvg-logo="https://i.imgur.com/zA0PTcs.png" tvg-id="Rai2.it" tvg-chno="2" tvg-country="IT" group-title="Italy",Rai 2
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-name="Rai 3" tvg-logo="https://i.imgur.com/9kuQCIi.png" tvg-id="Rai3.it" tvg-chno="3" tvg-country="IT" group-title="Italy",Rai 3
+https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
+#EXTINF:-1 tvg-name="Rete 4 â’¼" tvg-logo="https://i.imgur.com/GWx2Fkl.png" tvg-id="Rete.4.it" tvg-chno="4" tvg-country="IT" group-title="Italy",Rete 4 
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+#EXTINF:-1 tvg-name="Rete 4 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/rete4.png" tvg-id="rete4.it" tvg-chno="4" tvg-country="IT" group-title="Italy",Rete 4 FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISnVCRnQ0MVhBQ1FyQ0ljV3grWkZGL1ZQNlR6Z29pZ2Q5eEY3ak5ZOUZZWA
+#EXTINF:-1 tvg-name="Rete 4 HEVC" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/rete4.png" tvg-id="rete4.it" tvg-chno="4" tvg-country="IT" group-title="Italy",Rete 4 HEVC
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIQk50NDVHL0RBUEdGcWNabzJRcHk0RWhsUzVDNCsraERLR0VnQ1JFdjBQUA
+#EXTINF:-1 tvg-name="Canale 5 â’¼" tvg-logo="https://i.imgur.com/p6YdiR1.png" tvg-id="Canale.5.it" tvg-chno="5" tvg-country="IT" group-title="Italy",Canale 5 
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+#EXTINF:-1 tvg-name="Canale 5 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/canale5.png" tvg-id="canale5.it" tvg-chno="5" tvg-country="IT" group-title="Italy",Canale 5 FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIR2xhdXFsQVZDREpnK211Yy9iSFhNbTEzbXRMMWlFemxib2s0a3ZFekxGRA
+#EXTINF:-1 tvg-name="Canale 5 HEVC" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/canale5.png" tvg-id="canale5.it" tvg-chno="5" tvg-country="IT" group-title="Italy",Canale 5 HEVC
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIQk50NDVHL0RBUEdGcWNabzJRcHk0RnpFOURQbTJkam9FVitiOXk1Nmh3NQ
+#EXTINF:-1 tvg-name="Italia 1 â’¼" tvg-logo="https://i.imgur.com/oCiOxBG.png" tvg-id="Italia.1.it" tvg-chno="6" tvg-country="IT" group-title="Italy",Italia 1 
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+#EXTINF:-1 tvg-name="Italia 1 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/italia1.png" tvg-id="italia1.it" tvg-chno="6" tvg-country="IT" group-title="Italy",Italia 1 FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIT3lxbXhtdkZCS0J5ODJxaVVnamFVQ2tIcmZOTk50S0lxSkpSM0hQY1IvNw
+#EXTINF:-1 tvg-name="Italia 1 HEVC" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/italia1.png" tvg-id="italia1.it" tvg-chno="6" tvg-country="IT" group-title="Italy",Italia 1 HEVC
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIQk50NDVHL0RBUEdGcWNabzJRcHk0RkpYNzFtL0FKMEdlSXBKbzR6bmFiWg
+#EXTINF:-1 tvg-name="La7" tvg-logo="https://i.imgur.com/F90mpSa.png" tvg-id="LA7.HD.it" tvg-chno="7" tvg-country="IT" group-title="Italy",La7
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
+#EXTINF:-1 tvg-name="TV8 â’¼" tvg-logo="https://i.imgur.com/xvoHVOU.png" tvg-id="TV8.HD.it" tvg-chno="8" tvg-country="IT" group-title="Italy",TV8 
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1 tvg-name="Nove" tvg-logo="https://i.imgur.com/Hp723RU.png" tvg-id="Nove.it" tvg-chno="9" tvg-country="IT" group-title="Italy",Nove
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
+#EXTINF:-1 tvg-name="NOVE FHD" tvg-logo="https://tvlogo.nl/files/ch/%C4%B0TALYA/nove_tv_it.png" tvg-id="nove.it" tvg-chno="9" tvg-country="IT" group-title="Italy",NOVE FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBITGJ3VjFMTEhRRTc4MkN3cWEwUkFNcXBoYlJ5QWVSSzNWVEZzSHFmMUd4Tw
+#EXTINF:-1 tvg-name="NOVE HEVC" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/nove.png" tvg-id="nove.it" tvg-chno="9" tvg-country="IT" group-title="Italy",NOVE HEVC
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBITHRreVI1dUR0cHplS3g0WWNRRW9YdTBMRjExYlNQZjNnd256YlRWcHJEcQ
+#EXTINF:-1 tvg-name="20 Mediaset â’¼" tvg-logo="https://i.imgur.com/It13jwX.png" tvg-id="20.it" tvg-chno="20" tvg-country="IT" group-title="Italy",20 Mediaset 
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
+#EXTINF:-1 tvg-name="20 Mediaset FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/20mediaset.png" tvg-id="20mediaset.it" tvg-chno="20" tvg-country="IT" group-title="Italy",20 Mediaset FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIRjFnajFJckhoSEtPM1FSbWVpQnNUMEh5cGF6cm02MnVsdHFNQmMvZU9wMA
+#EXTINF:-1 tvg-name="20 Mediaset HEVC" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/20mediaset.png" tvg-id="20mediaset.it" tvg-chno="20" tvg-country="IT" group-title="Italy",20 Mediaset HEVC
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIUGNhOVQ5bWVKcjQrTFlsb3g2Snltam9wRkprbkdRRXc2LzE5M1ZkdzM1SA
+#EXTINF:-1 tvg-name="Rai 4 â’¼" tvg-logo="https://i.imgur.com/XFkZRfv.png" tvg-id="Rai4.it" tvg-chno="21" tvg-country="IT" group-title="Italy",Rai 4 
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-name="Iris â’¼" tvg-logo="https://i.imgur.com/Ixz1BY3.png" tvg-id="Iris.it" tvg-chno="22" tvg-country="IT" group-title="Italy",Iris 
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+#EXTINF:-1 tvg-name="Rai 5 â’¼" tvg-logo="https://i.imgur.com/Leu2zTO.png" tvg-id="Rai5.it" tvg-chno="23" tvg-country="IT" group-title="Italy",Rai 5 
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-name="Rai Movie â’¼" tvg-logo="https://i.imgur.com/RKpO8CE.png" tvg-id="RaiMovie.it" tvg-chno="24" tvg-country="IT" group-title="Italy",Rai Movie 
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-name="Rai Premium â’¼" tvg-logo="https://i.imgur.com/RKI4nFy.png" tvg-id="RaiPremium.it" tvg-chno="25" tvg-country="IT" group-title="Italy",Rai Premium 
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-name="Cielo" tvg-logo="https://i.imgur.com/cPluF03.png" tvg-id="cielo.it" tvg-chno="26" tvg-country="IT" group-title="Italy",Cielo
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1 tvg-name="27 Twentyseven â’¼" tvg-logo="https://i.imgur.com/y2PdPCK.png" tvg-id="27Twentyseven.it" tvg-chno="27" tvg-country="IT" group-title="Italy",27 Twentyseven 
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+#EXTINF:-1 tvg-name="TV 2000" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-id="TV2000.va" tvg-chno="28" tvg-country="IT" group-title="Italy",TV 2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+#EXTINF:-1 tvg-name="La7 Cinema" tvg-logo="https://i.imgur.com/khPweok.png" tvg-id="LA7.Cinema.it" tvg-chno="29" tvg-country="IT" group-title="Italy",La7 Cinema
+https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
+#EXTINF:-1 tvg-name="La 5 â’¼" tvg-logo="https://i.imgur.com/UNyJaho.png" tvg-id="La5.it" tvg-chno="30" tvg-country="IT" group-title="Italy",La 5 
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
+#EXTINF:-1 tvg-name="Real Time" tvg-logo="https://i.imgur.com/9dcTYg1.png" tvg-id="Real.Time.it" tvg-chno="31" tvg-country="IT" group-title="Italy",Real Time
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
+#EXTINF:-1 tvg-name="QVC" tvg-logo="https://i.imgur.com/Ea7iUX2.png" tvg-id="QVC.it" tvg-chno="32" tvg-country="IT" group-title="Italy",QVC
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://i.imgur.com/i60OYr9.png" tvg-id="Food.Network.it" tvg-chno="33" tvg-country="IT" group-title="Italy",Food Network
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
+#EXTINF:-1 tvg-name="Cine34 â’¼" tvg-logo="https://i.imgur.com/YyldwhI.png" tvg-id="Cine34.it" tvg-chno="34" tvg-country="IT" group-title="Italy",Cine34 
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+#EXTINF:-1 tvg-name="Focus â’¼" tvg-logo="https://i.imgur.com/M4smqpF.png" tvg-id="Focus.it" tvg-chno="35" tvg-country="IT" group-title="Italy",Focus 
+https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
+#EXTINF:-1 tvg-name="RTL 102.5" tvg-logo="https://i.imgur.com/KdissvS.png" tvg-id="RTL.102.5.HD.it" tvg-chno="36" tvg-country="IT" group-title="Italy",RTL 102.5
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/5IxIFJ0.png" tvg-id="Discovery.Channel.it" tvg-chno="37" tvg-country="IT" group-title="Italy",Discovery Channel
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
+#EXTINF:-1 tvg-name="Giallo" tvg-logo="https://i.imgur.com/0PIRwZS.png" tvg-id="Giallo.TV.it" tvg-chno="38" tvg-country="IT" group-title="Italy",Giallo
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
+#EXTINF:-1 tvg-name="Top Crime â’¼" tvg-logo="https://i.imgur.com/RFIwv9O.png" tvg-id="Top.Crime.it" tvg-chno="39" tvg-country="IT" group-title="Italy",Top Crime 
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
+#EXTINF:-1 tvg-name="Top Crime FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/topcrime.png" tvg-id="topcrime.it" tvg-chno="39" tvg-country="IT" group-title="Italy",Top Crime FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIRG8vbHFqMnRickNFODlsWTlBV3JvRC85VjI0enY5d21udlFWOG11c2JnUQ
+#EXTINF:-1 tvg-name="Top Crime HD" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/topcrime.png" tvg-id="topcrime.it" tvg-chno="39" tvg-country="IT" group-title="Italy",Top Crime HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIT2RmaXNJVjRpRGdqbmpTTCsrUmEySjdDbjVTc2J2YThXVkRlQUdnckRKVw
+#EXTINF:-1 tvg-name="BOING â’¼" tvg-logo="https://i.imgur.com/niSlrqT.png" tvg-id="Boing.it" tvg-chno="40" tvg-country="IT" group-title="Italy",BOING 
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
+#EXTINF:-1 tvg-name="K2" tvg-logo="https://i.imgur.com/wlLgSiA.png" tvg-id="K2.it" tvg-chno="41" tvg-country="IT" group-title="Italy",K2
+https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
+#EXTINF:-1 tvg-name="Rai Gulp â’¼" tvg-logo="https://i.imgur.com/lu1DPVb.png" tvg-id="RaiGulp.it" tvg-chno="42" tvg-country="IT" group-title="Italy",Rai Gulp 
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-name="Rai YoYo â’¼" tvg-logo="https://i.imgur.com/DRSa3ys.png" tvg-id="RaiYoyo.it" tvg-chno="43" tvg-country="IT" group-title="Italy",Rai YoYo 
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-name="Frisbee" tvg-logo="https://i.imgur.com/9y1zIAe.png" tvg-id="Frisbee.it" tvg-chno="44" tvg-country="IT" group-title="Italy",Frisbee
+https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
+#EXTINF:-1 tvg-name="Cartoonito â’¼" tvg-logo="https://i.imgur.com/oK2DcDJ.png" tvg-id="Cartoonito.it" tvg-chno="46" tvg-country="IT" group-title="Italy",Cartoonito 
+https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
+#EXTINF:-1 tvg-name="Super!" tvg-logo="https://i.imgur.com/1124YEp.png" tvg-id="Super!.it" tvg-chno="47" tvg-country="IT" group-title="Italy",Super!
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rai News 24 â’¼" tvg-logo="https://i.imgur.com/gdzGwB6.png" tvg-id="RaiNews24.it" tvg-chno="48" tvg-country="IT" group-title="Italy",Rai News 24 
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-name="Italia 2 â’¼" tvg-logo="https://i.imgur.com/nq48sjO.png" tvg-id="Italia.2.it" tvg-chno="49" tvg-country="IT" group-title="Italy",Italia 2 
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
+#EXTINF:-1 tvg-name="Sky TG24 â’¼" tvg-logo="https://i.imgur.com/q4d3Dah.png" tvg-id="Sky.TG24.it" tvg-chno="50" tvg-country="IT" group-title="Italy",Sky TG24 
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1 tvg-name="TGCOM 24 â’¼" tvg-logo="https://i.imgur.com/xautVD8.png" tvg-id="TGCom.it" tvg-chno="51" tvg-country="IT" group-title="Italy",TGCOM 24 
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+#EXTINF:-1 tvg-name="DMAX" tvg-logo="https://i.imgur.com/dmEmRX7.png" tvg-id="DMAX.it" tvg-chno="52" tvg-country="IT" group-title="Italy",DMAX
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
+#EXTINF:-1 tvg-name="Rai Storia" tvg-logo="https://i.imgur.com/s6LzYLt.png" tvg-id="RaiStoria.it" tvg-chno="54" tvg-country="IT" group-title="Italy",Rai Storia
+https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
+#EXTINF:-1 tvg-name="Mediaset Extra â’¼" tvg-logo="https://i.imgur.com/mM8lopo.png" tvg-id="Mediaset.Extra.it" tvg-chno="55" tvg-country="IT" group-title="Italy",Mediaset Extra 
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+#EXTINF:-1 tvg-name="HGTV â€“ Home & Garden Tv" tvg-logo="https://i.imgur.com/emLNC0U.png" tvg-id="HGTVItaly.it" tvg-chno="56" tvg-country="IT" group-title="Italy",HGTV â€“ Home & Garden Tv
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
+#EXTINF:-1 tvg-name="Rai Scuola" tvg-logo="https://i.imgur.com/R2GYK5F.png" tvg-id="RaiScuola.it" tvg-chno="57" tvg-country="IT" group-title="Italy",Rai Scuola
+https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
+#EXTINF:-1 tvg-name="Rai Sport â’¼" tvg-logo="https://i.imgur.com/xsGljsb.png" tvg-id="RaiSport.it" tvg-chno="58" tvg-country="IT" group-title="Italy",Rai Sport 
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-name="Turbo" tvg-logo="https://i.imgur.com/TjjVjV0.png" tvg-id="Motor.Trend.it" tvg-chno="59" tvg-country="IT" group-title="Italy",Turbo
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
+#EXTINF:-1 tvg-name="Sportitalia Plus" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-id="Sportitalia.it" tvg-chno="60" tvg-country="IT" group-title="Italy",Sportitalia Plus
+https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Travel TV" tvg-logo="https://i.imgur.com/aXAUyLN.png" tvg-id="TravelTV.it" tvg-chno="61" tvg-country="IT" group-title="Italy",Travel TV
+https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
+#EXTINF:-1 tvg-name="Donna TV â“ˆ" tvg-logo="https://i.imgur.com/Aa1Abme.png" tvg-id="DonnaTV.it" tvg-chno="62" tvg-country="IT" group-title="Italy",Donna TV 
+https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8
+#EXTINF:-1 tvg-name="SuperTennis" tvg-logo="https://i.imgur.com/GzsPlbX.png" tvg-id="SuperTennis.it" tvg-chno="64" tvg-country="IT" group-title="Italy",SuperTennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+#EXTINF:-1 tvg-name="Alma TV" tvg-logo="https://i.imgur.com/Y8JiDwN.png" tvg-id="AlmaTV.it" tvg-chno="65" tvg-country="IT" group-title="Italy",Alma TV
+https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio 105 TV â’¼" tvg-logo="https://i.imgur.com/3NiLKvj.png" tvg-id="Radio105TV.it" tvg-chno="66" tvg-country="IT" group-title="Italy",Radio 105 TV 
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
+#EXTINF:-1 tvg-name="R101 TV â’¼" tvg-logo="https://i.imgur.com/mWeEa9T.png" tvg-id="R101TV.it" tvg-chno="67" tvg-country="IT" group-title="Italy",R101 TV 
+https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
+#EXTINF:-1 tvg-name="Deejay TV" tvg-logo="https://i.imgur.com/rlaKH6k.png" tvg-id="DeejayTV.it" tvg-chno="69" tvg-country="IT" group-title="Italy",Deejay TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 tvg-name="RadioItaliaTV" tvg-logo="https://i.imgur.com/4VCEJuJ.png" tvg-id="RadioItaliaTV.it" tvg-chno="70" tvg-country="IT" group-title="Italy",RadioItaliaTV
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+#EXTINF:-1 tvg-name="Radio KISS KISS TV" tvg-logo="https://i.imgur.com/UTStxDW.png" tvg-id="KissKissTV.it" tvg-chno="158" tvg-country="IT" group-title="Italy",Radio KISS KISS TV
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Rai Radio 2 Visual Radio" tvg-logo="https://i.imgur.com/nVBet0h.png" tvg-id="RaiRadio2Visual.it" tvg-chno="202" tvg-country="IT" group-title="Italy",Rai Radio 2 Visual Radio
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-name="MAN-GA" tvg-logo="https://i.imgur.com/8a6WYU2.png" tvg-id="Manga.it" tvg-chno="236" tvg-country="IT" group-title="Italy",MAN-GA
+https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u
+#EXTINF:-1 tvg-name="Rai 4K â’¼" tvg-logo="https://i.imgur.com/5gkt9DD.png" tvg-id="Rai4K.it" tvg-chno="210" tvg-country="IT" group-title="Italy",Rai 4K 
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+#EXTINF:-1 tvg-name="Antenna Sud" tvg-logo="https://i.imgur.com/b8y6ImZ.png" tvg-country="IT" group-title="Sicilia",Antenna Sud
+https://live.antennasudwebtv.it:9443/hls/vod.m3u8
+#EXTINF:-1 tvg-name="Antenna Sud Extra" tvg-logo="https://i.imgur.com/6tBv8VD.png" tvg-country="IT" group-title="Sicilia",Antenna Sud Extra
+https://live.antennasudwebtv.it:9443/hls/vod92.m3u8
+#EXTINF:-1 tvg-name="La tr3 Marsala" tvg-logo="https://i.imgur.com/XlxpfEx.png" tvg-country="IT" group-title="Sicilia",La tr3 Marsala
+https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
+#EXTINF:-1 tvg-name="Onda Tv Sicilia" tvg-logo="https://i.imgur.com/0c5Y6lr.png" tvg-country="IT" group-title="Sicilia",Onda Tv Sicilia
+https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8
+#EXTINF:-1 tvg-name="Prima Tv Sicilia" tvg-logo="https://i.imgur.com/br45JER.png" tvg-country="IT" group-title="Sicilia",Prima Tv Sicilia
+https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio m2o Tv" tvg-logo="https://i.imgur.com/wl30UFj.png" tvg-id="m2oTV.it" tvg-country="IT" group-title="Italy",Radio m2o Tv
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 tvg-name="Sicilia 24 Tv" tvg-logo="https://i.imgur.com/GhQX36O.png" tvg-country="IT" group-title="Sicilia",Sicilia 24 Tv
+https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
+#EXTINF:-1 tvg-name="Sicilia Tv" tvg-logo="https://i.imgur.com/I5FoThW.png" tvg-country="IT" group-title="Sicilia",Sicilia Tv
+https://stream9.xdevel.com/video0s976441-1226/stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Tele Acras" tvg-logo="https://i.imgur.com/90Lsv8q.png" tvg-country="IT" group-title="Sicilia",Tele Acras
+https://5db313b643fd8.streamlock.net/teleacras/teleacras/playlist.m3u8
+#EXTINF:-1 tvg-name="Telecolor Sicilia" tvg-logo="https://i.imgur.com/rfNg6fw.png" tvg-chno="11" tvg-country="IT" group-title="Sicilia",Telecolor Sicilia
+https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/telecolor/master.m3u8
+#EXTINF:-1 tvg-name="Tele Mistretta" tvg-logo="https://i.imgur.com/OJ3zUS0.png" tvg-country="IT" group-title="Sicilia",Tele Mistretta
+https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Tele Radio Sciacca" tvg-logo="https://i.imgur.com/suhz5mE.png" tvg-country="IT" group-title="Sicilia",Tele Radio Sciacca
+https://5db313b643fd8.streamlock.net/teleradiosciaccatv/teleradiosciaccatv/playlist.m3u8
+#EXTINF:-1 tvg-name="Tele Spazio Messina" tvg-logo="https://i.imgur.com/Io5w6lT.png" tvg-country="IT" group-title="Sicilia",Tele Spazio Messina
+https://rtm.cyberspazio.cloud:5443/LiveApp/streams/049229794390395765037801.m3u8
+#EXTINF:-1 tvg-name="Tele Video Agrigento (T.V.A.)" tvg-logo="https://i.imgur.com/AaPr63E.png" tvg-country="IT" group-title="Sicilia",Tele Video Agrigento (T.V.A.)
+https://59d7d6f47d7fc.streamlock.net/tva/tva/playlist.m3u8
+#EXTINF:-1 tvg-name="Teleiblea" tvg-logo="https://i.imgur.com/n1THygZ.png" tvg-country="IT" group-title="Sicilia",Teleiblea
+https://5f22d76e220e1.streamlock.net/teleiblea/teleiblea/playlist.m3u8
+#EXTINF:-1 tvg-name="Telejato" tvg-logo="https://i.imgur.com/r3Dqzdj.png" tvg-country="IT" group-title="Sicilia",Telejato
+https://telejato.liberotratto.com/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Telesud Trapani" tvg-logo="https://i.imgur.com/tpZvU1P.png" tvg-country="IT" group-title="Sicilia",Telesud Trapani
+https://64b16f23efbee.streamlock.net/telesudtrapani/telesudtrapani/playlist.m3u8
+#EXTINF:-1 tvg-name="Televallo Trapani" tvg-logo="https://i.imgur.com/P6zuiRH.png" tvg-country="IT" group-title="Sicilia",Televallo Trapani
+https://64b16f23efbee.streamlock.net/televallo/televallo/playlist.m3u8
+#EXTINF:-1 tvg-name="Video Regione Sicilia" tvg-logo="https://i.imgur.com/0szwnR3.png" tvg-country="IT" group-title="Sicilia",Video Regione Sicilia
+https://57214cb172d84f8cb311b91513952b03.msvdn.net/live/S40896499/ZuaLjACsWIL4/playlist.m3u8
+#EXTINF:-1 tvg-name="Video Star Tv Sicilia" tvg-logo="https://i.imgur.com/1ddJVZ7.jpg" tvg-country="IT" group-title="Sicilia",Video Star Tv Sicilia
+https://stream9.xdevel.com/video0s976556-1321/stream/playlist.m3u8
+
+# ==========================================
+# PLUTO TV ITALIA
+# Aggiungi questi URL come playlist separata:
+# ==========================================
+# Canali Live:
+# https://raw.githubusercontent.com/OwnerPlugins/pluto-tv-m3u/main/pluto-live-IT.m3u
+# Film On-Demand:
+# https://raw.githubusercontent.com/OwnerPlugins/pluto-tv-m3u/main/pluto-vod-IT.m3u
+# (aggiornati ogni 6 ore, copia il RAW URL)
+# ==========================================
+
+# ==========================================
+# ITALIA NAZIONALE - Canali aggiuntivi
+# ==========================================
+#EXTINF:-1 tvg-id="EQUtv.it" tvg-name="EQUtv" tvg-logo="https://i.imgur.com/x9Wdz7h.png" group-title="Italy Sport",EQUtv
+https://ippicabetflag-live.morescreens.com/IPPICA_1_003/304p.m3u8
+#EXTINF:-1 tvg-id="TeleOne.it" tvg-name="Tele One" tvg-logo="https://i.imgur.com/9trB6mj.png" group-title="Sicilia",Tele One
+https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
+#EXTINF:-1 tvg-id="TGS.it" tvg-name="TGS" tvg-logo="https://i.imgur.com/0vHz6KY.png" group-title="Sicilia",TGS (Tele Giornale di Sicilia)
+https://router.xdevel.com/video1s975436-143/stream/playlist.m3u8
+
+# ==========================================
+# PLUTO TV ITALIA
+# Aggiungi questi URL come playlist separata nel tuo IPTV player:
+# ==========================================
+# Canali Live:
+# https://raw.githubusercontent.com/OwnerPlugins/pluto-tv-m3u/main/pluto-live-IT.m3u
+# Film On-Demand:
+# https://raw.githubusercontent.com/OwnerPlugins/pluto-tv-m3u/main/pluto-vod-IT.m3u
+# (aggiornati automaticamente ogni 6 ore)
+
+# ==========================================
+# DAZN (abbonamento personale hsneu.com)
+# ==========================================
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzdMFB4OiATvmSwH9PYbWGsev05oj3NXK3tdVHs7jBycZQ.png" group-title="IT ✪ DAZN",DAZN 1 FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISXZqZGlsQTh0SU16UTJsM29UOFBCbGJyVzhmTC82ZlJ0Tm5waGw2SytTQg
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="https://tvlogo.nl/files/ch/%C4%B0TALYA/DAZN.png" group-title="IT ✪ DAZN",DAZN 1 HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIQjJHcVhtZWZJQmlCTXdRaGJRZ1ZFeUdqTFhtS2xRa3BPbWRUWDB1UURQMw
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 SERIE B FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzcd6jlVEdFoTQL83oeMt4Z8iErGoeD5kWiVXjWyhrW_1Q.png" group-title="IT ✪ DAZN",DAZN 1 SERIE B FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIRUdDclZzT1ZGY1pzRmFEblFZd3RGQ1Q1bE16QWVCT0NncWY3WTFjSWJGUA
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 SERIE B HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzcd6jlVEdFoTQL83oeMt4Z8iErGoeD5kWiVXjWyhrW_1Q.png" group-title="IT ✪ DAZN",DAZN 1 SERIE B HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIQ3A5MjhqWmVMNGVsUVdSSGg1MExCNEtsUjc3ckgvSmdFcFhOYUhBNnR2UQ
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 10 SERIE B FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzcd6jlVEdFoTQL83oeMt4Z8iErGoeD5kWiVXjWyhrW_1Q.png" group-title="IT ✪ DAZN",DAZN 10 SERIE B FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBITHZVQW0rdlQ4cC9FTWNMQmtvODJLNjcwNitpbWZXdUtpaWlNZGYzM2w5eg
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 10 SERIE B HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzcd6jlVEdFoTQL83oeMt4Z8iErGoeD5kWiVXjWyhrW_1Q.png" group-title="IT ✪ DAZN",DAZN 10 SERIE B HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIQ1pFOURnVVlPUHZWd3ZDbHRPZzNKTUczQ3I3cE1OSlp6dWMvZHpJUzlIRA
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzdMFB4OiATvmSwH9PYbWGsev05oj3NXK3tdVHs7jBycZQ.png" group-title="IT ✪ DAZN",DAZN 2 FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBITis1WCs5aVlsZHBsUGRPQ29qbmR6UnF5UUNnWXE3VlRzT2gxaHhxeGNsbg
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/dazn_bar_2.png" group-title="IT ✪ DAZN",DAZN 2 HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBITXIrQngzS3hubDlPQWczRHVoYTFLRndtTmRrUkJCc2UxdmtzeHp6RUFiTw
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 SERIE B FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzcd6jlVEdFoTQL83oeMt4Z8iErGoeD5kWiVXjWyhrW_1Q.png" group-title="IT ✪ DAZN",DAZN 2 SERIE B FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISS95V0doMnJoVjNVZXUzNVdBeGM0Wi8vQlRCUFZsMHNOelV2RDl4VXI5SA
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 SERIE B HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzcd6jlVEdFoTQL83oeMt4Z8iErGoeD5kWiVXjWyhrW_1Q.png" group-title="IT ✪ DAZN",DAZN 2 SERIE B HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISTdZNWxURUhDMVNrNEhNTCt6dnZWeHR5NGluQXluYW5BUisxQXJSR1Zwdw
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzdMFB4OiATvmSwH9PYbWGsev05oj3NXK3tdVHs7jBycZQ.png" group-title="IT ✪ DAZN",DAZN 3 FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIQ2hjQ2d2UTI1OHBuNGRiVWV3a3BYd3lkblJIdUdrVXVyRDJuVkZLZXVHLw
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="https://tvlogo.nl/files/ch/%C4%B0TALYA/DAZN.png" group-title="IT ✪ DAZN",DAZN 3 HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIS2F6TG80N1hzRG5qQy85MWxLK1VrcG1CZHFnazRvY041a0EvR2RuZ2hnWg
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 SERIE B FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzcd6jlVEdFoTQL83oeMt4Z8iErGoeD5kWiVXjWyhrW_1Q.png" group-title="IT ✪ DAZN",DAZN 3 SERIE B FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISGZjMHhoTTk2L2dLY3dzaDNoR3BsWE5NVzh1OVFSK0l2dVUxTk5mRnh4Vg
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 SERIE B HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzcd6jlVEdFoTQL83oeMt4Z8iErGoeD5kWiVXjWyhrW_1Q.png" group-title="IT ✪ DAZN",DAZN 3 SERIE B HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBITVZnV0h0U0dnb01kMFRMSXJPcWpSa0dobit0QWozckI1TnJGVGM1elNybw
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="https://tvlogo.nl/files/ch/%C4%B0TALYA/DAZN.png" group-title="IT ✪ DAZN",DAZN 4
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBITm9DSm5lSnkxRjhvVmFEUGdvUXl5bWM5anhlVVlYTmI0OTFReTMwU1JkSg
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 SERIE B FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzcd6jlVEdFoTQL83oeMt4Z8iErGoeD5kWiVXjWyhrW_1Q.png" group-title="IT ✪ DAZN",DAZN 4 SERIE B FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIQnQvVC81S2Y2WkN0Z08zMWYwazhUdGVGWmVMUkR5bDJlTmNkZ1I5QmZrQQ
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 SERIE B HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzcd6jlVEdFoTQL83oeMt4Z8iErGoeD5kWiVXjWyhrW_1Q.png" group-title="IT ✪ DAZN",DAZN 4 SERIE B HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIS1lqMmZ1T3VGMW1QYWNmYmpKR08yNGk5UDdlNGwzclpkWVZsVUszNGJkZw
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5" tvg-logo="https://tvlogo.nl/files/ch/%C4%B0TALYA/DAZN.png" group-title="IT ✪ DAZN",DAZN 5
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIQUpPenRZTDE1RkJZNkxKczNta09MWmxCTGNjK1NveFU1d3FtSVpsL1g1UA
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 SERIE B FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzcd6jlVEdFoTQL83oeMt4Z8iErGoeD5kWiVXjWyhrW_1Q.png" group-title="IT ✪ DAZN",DAZN 5 SERIE B FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBITmZ6TGQrSEpmRVNma3JBN1NLTXFQTGViZGpvSkxNdzFvcVVKbGxRbnY2dg
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 SERIE B HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzcd6jlVEdFoTQL83oeMt4Z8iErGoeD5kWiVXjWyhrW_1Q.png" group-title="IT ✪ DAZN",DAZN 5 SERIE B HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISmU4NjRTeXdtQUtMa1B1NHA5Uzc5eW83Uk5zbUdFc2VjUzFuY2hrWDRRWA
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 6" tvg-logo="https://tvlogo.nl/files/ch/%C4%B0TALYA/DAZN.png" group-title="IT ✪ DAZN",DAZN 6
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIRGV5VGN0YzlCQjdCSC9NTUZjcHlpWHd4YWtSQzMxYnBXUFJsZHpBd3BQZQ
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 6 SERIE B FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzcd6jlVEdFoTQL83oeMt4Z8iErGoeD5kWiVXjWyhrW_1Q.png" group-title="IT ✪ DAZN",DAZN 6 SERIE B FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISEU2dnFoYURYbkVDS01RMk1XVXQ2UEVRRG5PaHFUZmpaUWJ5bEpBZUNmdA
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 6 SERIE B HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzcd6jlVEdFoTQL83oeMt4Z8iErGoeD5kWiVXjWyhrW_1Q.png" group-title="IT ✪ DAZN",DAZN 6 SERIE B HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBITm9BdlIycXgveDRib2l1cFN6TDlJb1FFVVhMcjdzeEpMMUhsbFMyek9UNg
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 7" tvg-logo="https://tvlogo.nl/files/ch/%C4%B0TALYA/DAZN.png" group-title="IT ✪ DAZN",DAZN 7
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIRXF0Rk1MMEtZazhPODBDeVgzdHR2aVIzQU56cnFuNFl3dGZjbWJiL1l1cg
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 7 SERIE B FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzcd6jlVEdFoTQL83oeMt4Z8iErGoeD5kWiVXjWyhrW_1Q.png" group-title="IT ✪ DAZN",DAZN 7 SERIE B FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBITnlyMjBkcmYvYWxKbDJYb0h4bXk5TG1nVnR4LzhrMmtOcDFwWHhQdGhLeg
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 8" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzdMFB4OiATvmSwH9PYbWGsev05oj3NXK3tdVHs7jBycZQ.png" group-title="IT ✪ DAZN",DAZN 8
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISUppYzJxV3ZNdmRJQmsyVjhPT1FtbVdOL0JJaGdtYkIwdjRUZ2RadENVNA
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 8 SERIE B FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzcd6jlVEdFoTQL83oeMt4Z8iErGoeD5kWiVXjWyhrW_1Q.png" group-title="IT ✪ DAZN",DAZN 8 SERIE B FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIT2xyUjM1UmdDRHdQbXQ4dVlRK2tQSHpiUFpGMXlZYzB2Q3dIZnRaNzhDSA
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 8 SERIE B HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzcd6jlVEdFoTQL83oeMt4Z8iErGoeD5kWiVXjWyhrW_1Q.png" group-title="IT ✪ DAZN",DAZN 8 SERIE B HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISjMva1JzVW9md01raVhNNUJCWVZqSjdKSlFvR0hVaEV4NURDNTNSSDZpRg
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 9" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzdMFB4OiATvmSwH9PYbWGsev05oj3NXK3tdVHs7jBycZQ.png" group-title="IT ✪ DAZN",DAZN 9
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIQ2hIelNoSG1NMlhHS1JjajNGcG80ZzRpSXBSem9NTkViZHJoNzgrYzlDdw
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 9 SERIE B FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzcd6jlVEdFoTQL83oeMt4Z8iErGoeD5kWiVXjWyhrW_1Q.png" group-title="IT ✪ DAZN",DAZN 9 SERIE B FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIRUk4dkpGMlVBaWNSUXdTV3BSQUNjS0NwNjVqZGsvZXVoNWxjZis0d3ZCVw
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 9 SERIE B HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzcd6jlVEdFoTQL83oeMt4Z8iErGoeD5kWiVXjWyhrW_1Q.png" group-title="IT ✪ DAZN",DAZN 9 SERIE B HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISzl6cXZyRThpcGNQRjFFMHFpR1RGSkN5WUVZekdsd0RaSjUvdkdMR1VoUA
+#EXTINF:-1 tvg-id="" tvg-name="DAZN ATALANTA" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/Atalanta.gif" group-title="IT ✪ DAZN",DAZN ATALANTA
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBITjhqOHg1emoxZlA1ZWVaK2ZKTERnNURKQlNJa3VGVzQzd21MZXhRWVNFLw
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BOLOGNA" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzfP9t0QyJ3ZrYXQH2fBcIn5F5G4vkUgrPXUMyBfNk1wtw.png" group-title="IT ✪ DAZN",DAZN BOLOGNA
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIQ255Rkxtc2lnUU04UTdOazRkd2JDczRkVGRiQ2V6ODFiK0FDUks2Q0FoTQ
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CAGLIARI" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzd7-AeRgg2w83R9XDacTKoxDQ7SZJ0WVDxEQCA-oSGwlQ.png" group-title="IT ✪ DAZN",DAZN CAGLIARI
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIQzdOcHFVNGJUdk1mbnJWS3R5SExwUjlLenY3ZHVWZUgrMDJNS0tPbTVFTg
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CHANNEL FHD" tvg-logo="https://www.tvlogolar.xyz/europa/italy/dazn-channel-it.png" group-title="IT ✪ DAZN",DAZN CHANNEL FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISGR6K05KbDlaMG1aWXRUMWlnUzBTWEozVVJVeUNMR3hudWliN3ZVN0lwVg
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CHANNEL HD" tvg-logo="https://www.tvlogolar.xyz/europa/italy/dazn-channel-it.png" group-title="IT ✪ DAZN",DAZN CHANNEL HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBITThMcDJkMEhNUTV1S1FOUHF5S2ViZ3NMK3l6b01YVVFuMWpneVhnOHRBeQ
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EMPOLI" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzcjnXbZGs7A9_Q-bnbP0Oaa.png" group-title="IT ✪ DAZN",DAZN EMPOLI
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIUHQybjZDZ1Vad0NsWldFY2VxRmljWUJhRlhHUXp0aWczK29GcURYUHVVWQ
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FIORENTINA" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzetG3Vi0U_aqPze36IAWjOA1ZcV-KiaF7SxQI3lJNg2RA.png" group-title="IT ✪ DAZN",DAZN FIORENTINA
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIR3ZKODFmakgwZGkvQVpmSnJWTi80REdOaHJWUmQwSkpuczVKMjhuTWlXSA
+#EXTINF:-1 tvg-id="" tvg-name="DAZN GENOA" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzdLf_xcA6LD32EkHlkhuJQn.png" group-title="IT ✪ DAZN",DAZN GENOA
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIRVkxVTcvTWFsQnJxb2JQWm9PSnJEelVwcS9BWHhTcm9pdXJGUkJVa3NCeA
+#EXTINF:-1 tvg-id="" tvg-name="DAZN HELLAS VERONA" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzf_SpH5GF3eg1Dj2iPGvSh0cCevkfiaW8ekKBXGYlBcjQ.png" group-title="IT ✪ DAZN",DAZN HELLAS VERONA
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIUCtNRnM3NVhhR3czWDAzcENDOHE2OG5JZVkvOHZqcm9vYkIyK1RIWXFnQQ
+#EXTINF:-1 tvg-id="" tvg-name="DAZN INTER" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzcHAMGLM9kDNXaoUHndv4XN.png" group-title="IT ✪ DAZN",DAZN INTER
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIRGtkdVE1NGMyeDFobTRQbHdqSExwMHhZQU9NelMzZ0lLZ1FqYi8yR1N5Zw
+#EXTINF:-1 tvg-id="" tvg-name="DAZN JUVENTUS" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzeF5cvhzn3Fyp7q8CXw3RI92vL_xsrouCKBlcLX6uLp8Q.png" group-title="IT ✪ DAZN",DAZN JUVENTUS
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIRGdIWlRla2lnbDQ2bVJGekMzV3VhT3FWbTVzbDRST045RU9aVjBvSzZBMg
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LAZIO" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzfkG8ZmX3lfqgHUaLBOAwbB.png" group-title="IT ✪ DAZN",DAZN LAZIO
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIRnpPRHlQcTk4SUNEa2tqYzJ5QXNMd3RuYzJ0RERjU3l1OUZqM3dOZWxSUw
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LECCE" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzdnZo_cWQLeNSCj9TRFAdTr.png" group-title="IT ✪ DAZN",DAZN LECCE
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISGUrRlk2ZGNIMk0vbjhkaTJVNTQ5RnVQcS9Cd0c5NExYOTBHQmJXTmxqQw
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MILAN" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzdUptITzdRb6oxdbIuLbzlOd4bdlA-ue7EQQY6x-hXxYg.png" group-title="IT ✪ DAZN",DAZN MILAN
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIR3RuZFJOcXZGTHJIeGhYMlVtaE1aempaWWdTbjJjZWNHcnB1eXhJMXdPMg
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MONZA" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzd9MxnQlE0ginM3HqtGxunkBeQx-AES-TAixzTPkPD5_Q.png" group-title="IT ✪ DAZN",DAZN MONZA
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIS1ZMZXJLTDJlWGF2VDFuV1RNS0xxbDNzK1YxRXpOdGNOc3Njc3FGY2ZXOQ
+#EXTINF:-1 tvg-id="" tvg-name="DAZN NAPOLI" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzfUmHxQL7Nrdp3ANPnUv0mF.png" group-title="IT ✪ DAZN",DAZN NAPOLI
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISDVhdFc0Vm9nV1pDbjhsOVdiTlEyaGlnTExGaTVWa2VOc2EwdmF5ZkM2bQ
+#EXTINF:-1 tvg-id="" tvg-name="DAZN PARMA" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzepoi2b-g61IvhsQFv08VGp.png" group-title="IT ✪ DAZN",DAZN PARMA
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISnJrQm56UXZxNDF4U3JTYnluVDRpMU54ZjJuSk1GV0tNZGFKd1h0V1RQdA
+#EXTINF:-1 tvg-id="" tvg-name="DAZN ROMA" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzevHnPYVMoTEsE7t9wgMuwY1uTbhuxZdiL1GcVAQmoycw.png" group-title="IT ✪ DAZN",DAZN ROMA
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIQitKUmxFSVBFclZJUHJIVHlBVFRaRUZJekdTSE1iVlRoazgwV0c0cGdzUA
+#EXTINF:-1 tvg-id="ausepg.de" tvg-name="DAZN SPORTDIGITAL FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/sportdigital.png" group-title="DE ✪ DAZN",DAZN SPORTDIGITAL FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISVpjRXBqZDNidm5KOVVjVXBtU3IxRFJVWmtrTjYxSFgvUFA3QzNQbldPMg
+#EXTINF:-1 tvg-id="" tvg-name="DAZN TORINO" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzedtZeOFjJUTyz8AIgxk0ydapabiMGu5mdfKHJ9j-LrhQ.png" group-title="IT ✪ DAZN",DAZN TORINO
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBITGZmeXdCUDVCeHVLMFVHNnhsQTRIS1cxVWNBTi9QWEF2OUg0eGNYR3UxYg
+#EXTINF:-1 tvg-id="" tvg-name="DAZN UDINESE" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzf8YdtY5CcKymgEll8JcpxOjy9zi-lk0ELd20i8CTU5qw.png" group-title="IT ✪ DAZN",DAZN UDINESE
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISzJSTEZmTWtuSTQ0NkEweUdmQ3JMS2hGa20wVVNpRzk3eUdmaktSQ2RTMg
+#EXTINF:-1 tvg-id="" tvg-name="DAZN VENEZIA" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-vaaVb7keQ9JckX9u5D0tzcjqEA0V0Q8IB8j7QSHQpfXATBQLiidddVw_sYUC1c54w.png" group-title="IT ✪ DAZN",DAZN VENEZIA
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISEd3aFhadzNiUjZ5LzlUMXgrSGNlaTI1djNxTE5hSFJNalVsNTFEZXRaTQ
+#EXTINF:-1 tvg-id="" tvg-name="DAZN ZONA" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9y6F0PWG5aoaTUWvbLSJpPSwxIlvHU-JEecN0E26gGwog.png" group-title="IT ✪ DAZN",DAZN ZONA
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIR3lQUWJqUzk1cDVoNjRKMnBRbTRBYXpSVVV4Y3lGQkV0TDhZWnhWMW0xcw
+# ==========================================
+# SKY (abbonamento personale hsneu.com)
+# ==========================================
+#EXTINF:-1 tvg-id="" tvg-name="SKY ARTE FHD" tvg-logo="https://tvlogo.nl/files/ch/%C4%B0TALYA/sky_it_arte_hd.png" group-title="IT ✪ CULTURA",SKY ARTE FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIQVA3a2lTc1hBUDFCTzdsUTFHdHoyRE1zSklIZGQ4bVYrYzAzeGYwMmFQZQ
+#EXTINF:-1 tvg-id="" tvg-name="SKY ARTE HD" tvg-logo="https://tvlogo.nl/files/ch/%C4%B0TALYA/sky_it_arte_hd.png" group-title="IT ✪ CULTURA",SKY ARTE HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIQldOd1FYZkVZak10UDFIdmYvUTR5aWs3ZjFhUGNRZ0RpRlZFSlA4S0NLUw
+#EXTINF:-1 tvg-id="skyarte.it" tvg-name="SKY ARTE HEVC" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/skyarte.png" group-title="IT ✪ ITALIA HEVC",SKY ARTE HEVC
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIRWZrdGVQTDJ1SzBKZmV4L1dNS2d3cXF0ejBGUHVoTWkweUl6Z0huT3VnZg
+#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION FHD" tvg-logo="https://i.ibb.co/KKyZxV8/ISHT051.png" group-title="IT ✪ SKY CINEMA",SKY CINEMA ACTION FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISzEzbEtlamtOT3dvSElYQ0tyTnpoWWFUdkVEc0ZuOHdHWEh4V1FGb0h3dw
+#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION HD" tvg-logo="https://i.ibb.co/KKyZxV8/ISHT051.png" group-title="IT ✪ SKY CINEMA",SKY CINEMA ACTION HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISTVvcmlZZG41NkhOUWRaa2krYXVKVG1TMUxZR3Y1a1BzUTVva2FDUUg1NA
+#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="SKY CINEMA ATLANTIC FHD" tvg-logo="https://logo.m3uassets.com/skyatlantic.png" group-title="IT ✪ SKY CINEMA",SKY CINEMA ATLANTIC FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIUE9xSmlKakgwQStPWXRXa1hhSUczcWxNOWdaTlNZVVV6WXR4NFFNbXVJQQ
+#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="SKY CINEMA ATLANTIC HD" tvg-logo="https://logo.m3uassets.com/skyatlantic.png" group-title="IT ✪ SKY CINEMA",SKY CINEMA ATLANTIC HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISU1LTE5vK05TdG5oUWFDa3RyVWxlRWRvL2tZMUxZbGxDdDdHbG8wYVdyOA
+#EXTINF:-1 tvg-id="skycinemacollection.it" tvg-name="SKY CINEMA COLLECTION FHD" tvg-logo="https://i.ibb.co/d413Crc/y9HPLUE.png" group-title="IT ✪ SKY CINEMA",SKY CINEMA COLLECTION FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIS2ZUa3FFV0Zia1RiWlRjL1ZqdEQ0RVRlaWJjeUNVbHZhNjBCdHBSWWVzUg
+#EXTINF:-1 tvg-id="skycinemacollection.it" tvg-name="SKY CINEMA COLLECTION HD" tvg-logo="https://i.ibb.co/d413Crc/y9HPLUE.png" group-title="IT ✪ SKY CINEMA",SKY CINEMA COLLECTION HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIRTJtTERFV3hUYnIweUhiZ0xNV25UdzRhRnJhYUtjWFBaQjZhVktPNWlWZw
+#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="SKY CINEMA COMEDY FHD" tvg-logo="https://i.ibb.co/Hn2C8fF/HOuB4fK.png" group-title="IT ✪ SKY CINEMA",SKY CINEMA COMEDY FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISFJ1V0NYazRTNDI3Q0FWc1h4eTIzbStVMktKMXo4cWlVL1N1VUJZSy9jVw
+#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="SKY CINEMA COMEDY HD" tvg-logo="https://i.ibb.co/Hn2C8fF/HOuB4fK.png" group-title="IT ✪ SKY CINEMA",SKY CINEMA COMEDY HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISm5tcnhGZmN0M0t3TlIzRUovUFdYeURuMFQ3SzJENm5mMWFLQkFTOTc2Yg
+#EXTINF:-1 tvg-id="skycinemadrama.it" tvg-name="SKY CINEMA DRAMA FHD" tvg-logo="https://i.ibb.co/v4KxbVZ/Sky-Cinema-Drama-HD-Logo-2021-svg.png" group-title="IT ✪ SKY CINEMA",SKY CINEMA DRAMA FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISjVSb3FobGhPd2VGMEk4VzByVEx6NkE4UFhYOHhSNUcyclVTOHBlTFl0TA
+#EXTINF:-1 tvg-id="skycinemadrama.it" tvg-name="SKY CINEMA DRAMA HD" tvg-logo="https://i.ibb.co/v4KxbVZ/Sky-Cinema-Drama-HD-Logo-2021-svg.png" group-title="IT ✪ SKY CINEMA",SKY CINEMA DRAMA HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIRkxKYUxTZGtyYUhwMkpZci9wY25yaG4yM00xcFNiWHg5NFdET0pIcUwydA
+#EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="SKY CINEMA DUE FHD" tvg-logo="https://i.ibb.co/ZH4zdbB/Sky-Cinema-Due-HD-Logo-2021-svg.png" group-title="IT ✪ SKY CINEMA",SKY CINEMA DUE FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIT2lkTWxwS001VitmeFNLZjI4Z0UvMWNlaDd5bmNxR0ZLazVrTzU5TGJIeQ
+#EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="SKY CINEMA DUE HD" tvg-logo="https://i.ibb.co/ZH4zdbB/Sky-Cinema-Due-HD-Logo-2021-svg.png" group-title="IT ✪ SKY CINEMA",SKY CINEMA DUE HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBITWZXUXNDd3dJcTYxaWcyYi8zVWczSndvSnQ0ZldUbnVBOHR1TkNGNVMyUA
+#EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="SKY CINEMA FAMILY FHD" tvg-logo="https://logo.m3uassets.com/cinemafamily.png" group-title="IT ✪ SKY CINEMA",SKY CINEMA FAMILY FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIR1NWamRRZUwrdUV1ZEdVQWdsQWlHenJDeStJOUJEN3dDUlZyUXVmQkZRZw
+#EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="SKY CINEMA FAMILY HD" tvg-logo="https://logo.m3uassets.com/cinemafamily.png" group-title="IT ✪ SKY CINEMA",SKY CINEMA FAMILY HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIRjRxcDloL2J4dVc3QVpjemEvL2orbmgxZ3JXbWozN0p1cjIxTkhqT2tUUA
+#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="SKY CINEMA ROMANCE FHD" tvg-logo="https://i.ibb.co/Nx6JcFk/Sky-Cinema-Romance-HD-Logo-2021-svg.png" group-title="IT ✪ SKY CINEMA",SKY CINEMA ROMANCE FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIQ0doa21SVzU5UFlzblZhZmVhWE85aExUamMwVU5iTmpndTQvTGpSeWh1OA
+#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="SKY CINEMA ROMANCE HD" tvg-logo="https://i.ibb.co/Nx6JcFk/Sky-Cinema-Romance-HD-Logo-2021-svg.png" group-title="IT ✪ SKY CINEMA",SKY CINEMA ROMANCE HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIS1JGZ0htSE93cVpDR25KeGF0UGZ5RVRsTUpuQUhmUlE5em5qa3NMSTVxRA
+#EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="SKY CINEMA SUSPENSE FHD" tvg-logo="https://i.ibb.co/KFKnnq0/Sky-Cinema-Suspense-HD-Logo-2021-svg.png" group-title="IT ✪ SKY CINEMA",SKY CINEMA SUSPENSE FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIUFVMWk4wc2pPQUJnbU50dmxNdlFmVTJtQm83MEFmb2xyK253RFFYMDViOA
+#EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="SKY CINEMA SUSPENSE HD" tvg-logo="https://i.ibb.co/KFKnnq0/Sky-Cinema-Suspense-HD-Logo-2021-svg.png" group-title="IT ✪ SKY CINEMA",SKY CINEMA SUSPENSE HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIQmpGYUozdGpDcVRHNm96bWh4Q1RiTjZYc2owb2lyTElqRlVjZGlOTUl6WA
+#EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="SKY CINEMA UNO FHD" tvg-logo="https://i.ibb.co/jZx4JSq/Sky-Cinema-Uno-HD-Logo-2021-svg.png" group-title="IT ✪ SKY CINEMA",SKY CINEMA UNO FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBITkJpdGd4ZHd4SzJKeENhU2FKRU1vOWw2ZFJZZDBONVBPaW52Vk1RWXlOcw
+#EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="SKY CINEMA UNO HD" tvg-logo="https://i.ibb.co/jZx4JSq/Sky-Cinema-Uno-HD-Logo-2021-svg.png" group-title="IT ✪ SKY CINEMA",SKY CINEMA UNO HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISWIvSE9IRVBiY2VHcHo4Nmx5ZnE4ODRtOEQyRHpDaTk1UWRWajZKTTVjWQ
+#EXTINF:-1 tvg-id="skydocumentaries.it" tvg-name="SKY DOCUMENTARIES" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skydocumentaries.png" group-title="IT ✪ ITALIA",SKY DOCUMENTARIES
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIUGRGaUlKK0ZObDZqS0NVMzhhUVd4Mys4aE9oc2JzQzdpUUdoSmhjV3pPSw
+#EXTINF:-1 tvg-id="skydocumentaries.it" tvg-name="SKY DOCUMENTARIES HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skydocumentaries.png" group-title="IT ✪ ITALIA HEVC",SKY DOCUMENTARIES HEVC
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIRWZrdGVQTDJ1SzBKZmV4L1dNS2d3cDBFL0VCNzNhM1pCSndHQlJiZklEaw
+#EXTINF:-1 tvg-id="" tvg-name="SKY NATURE HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skynature.png" group-title="IT ✪ ITALIA HEVC",SKY NATURE HEVC
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIRWZrdGVQTDJ1SzBKZmV4L1dNS2d3cWVuSGVib1ZIMDhrMEdtMXpxUHV1UA
+#EXTINF:-1 tvg-id="" tvg-name="SKY NOVELA" tvg-logo="https://www.tvlogolar.xyz/Toplu/Albania//SKYNOVELA.png" group-title="ALB ✪ CINEMA",SKY NOVELA
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIR21hQ1VXZlp4Y0g5OHdHWE9rdVNVM3RwU01ZVDN4eVYwVGRyT0piTzVxeg
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 24 FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xEjWMJ93G7xkk8hyUSS7vuDYV_GRO26VychR6kxf6BBuKk_RME_RBXu5wEqjwnRLI.png" group-title="IT ✪ SPORT",SKY SPORT 24 FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIQUl0TEF1TytTSUZUaXo0WnNGUFNyQmJLeHlhNEFRb3N3RlBCbHJCZU1udg
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 24 HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xdO6TpAdZjmBifvG5CY-ZRuvYsZWziTqLlBNJGpq40oA.png" group-title="IT ✪ SPORT",SKY SPORT 24 HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBITEJoN0NFY3dOSnVxVS94V2xwdDAzMzBHbUpyODVEbW9RbW9QeGk0dkw5ag
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 24 HEVC" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xEjWMJ93G7xkk8hyUSS7vuDYV_GRO26VychR6kxf6BBuKk_RME_RBXu5wEqjwnRLI.png" group-title="IT ✪ SPORT",SKY SPORT 24 HEVC
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIQ0hOZzlJRy9PTGtaeWs1L0grSVkrQ3hiS3NobEMvcDNaeGhCQXQwSGpqUQ
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 251 FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xEjWMJ93G7xkk8hyUSS7vu8GicGCT3oLPZ5UMMzXtoNw.png" group-title="IT ✪ SPORT",SKY SPORT 251 FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIQUx3bEVEV2hYRkRzOEcwMVVNckU4UlBTUUNJQ1RTemdIcVNrT0lGRlkwVw
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 252 FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xEjWMJ93G7xkk8hyUSS7vu8GicGCT3oLPZ5UMMzXtoNw.png" group-title="IT ✪ SPORT",SKY SPORT 252 FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIUHZlUXhJOGZIdXVVUkZ1MDA5Mm9GWktSbUJ6cXI0UGd3MUZTTEVieXdjbw
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 252 HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xdO6TpAdZjmBifvG5CY-ZRcYSEe8Ala5VoENLoxyjaSw.png" group-title="IT ✪ SPORT",SKY SPORT 252 HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBITmRaYTdKRFhxa2NJVnA2bUd2NTVNT0hudEJvWkFJQzZuMnR1ZTdXd0h6Ug
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 253 FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xEjWMJ93G7xkk8hyUSS7vu8GicGCT3oLPZ5UMMzXtoNw.png" group-title="IT ✪ SPORT",SKY SPORT 253 FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIR2EwMk1DQncvYzB3cUxNeHpHOXpMRjVDcVBJd2VURE1uUWRueklZTmQ1dw
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 253 HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xdO6TpAdZjmBifvG5CY-ZRcYSEe8Ala5VoENLoxyjaSw.png" group-title="IT ✪ SPORT",SKY SPORT 253 HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIQ2kxRWloN1ZSRmtHelBMUzYxUTRrb3RwWDlnSmJwbTlFNDEweFNaSkpBag
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 254 FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xEjWMJ93G7xkk8hyUSS7vu8GicGCT3oLPZ5UMMzXtoNw.png" group-title="IT ✪ SPORT",SKY SPORT 254 FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBITmpuUGlmdm5oekpXdXQrWkR5TFZVZ0ZEOEV1QlhKWWVDRFJycVZZMEpBRQ
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 254 HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xdO6TpAdZjmBifvG5CY-ZRcYSEe8Ala5VoENLoxyjaSw.png" group-title="IT ✪ SPORT",SKY SPORT 254 HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBITEx1STRDby9pdmdaUVhjZ0ZUL013VUhLVWRWZDNtcVA3RjIyeDQrQ3VDYg
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 255 FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xEjWMJ93G7xkk8hyUSS7vu8GicGCT3oLPZ5UMMzXtoNw.png" group-title="IT ✪ SPORT",SKY SPORT 255 FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISldZZVMrSFFJK1dxWDhUWWZrN2owWk4rMXhOeGx2TTNqMWZPTTFGaVdYYQ
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 255 HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xdO6TpAdZjmBifvG5CY-ZRcYSEe8Ala5VoENLoxyjaSw.png" group-title="IT ✪ SPORT",SKY SPORT 255 HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBITFk1TmlZWm9XdWFSL2M0VFRhREsvdlljYms1NmVVYWNwSEthUWNIcU5oRg
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 256 FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xEjWMJ93G7xkk8hyUSS7vu8GicGCT3oLPZ5UMMzXtoNw.png" group-title="IT ✪ SPORT",SKY SPORT 256 FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBITzUvdVMrWGhyM29oTXQwd1NCUE9SN3hoV3prL0Y5QWJUTjhYY3NYWURHRA
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 256 HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xdO6TpAdZjmBifvG5CY-ZRcYSEe8Ala5VoENLoxyjaSw.png" group-title="IT ✪ SPORT",SKY SPORT 256 HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIQmJYT053ZkU4RjFlMDR1dTlOSjFMemFNa1dtOEtOWTh1aUR0eTZKeUlEMA
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 257 FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xEjWMJ93G7xkk8hyUSS7vu8GicGCT3oLPZ5UMMzXtoNw.png" group-title="IT ✪ SPORT",SKY SPORT 257 FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIQ2xYU004cnhYLzFDWkxiNEpRbWk4V1VHVkxJMDJoYng3Zlk0ZGVlcEFCOQ
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 257 HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xdO6TpAdZjmBifvG5CY-ZRcYSEe8Ala5VoENLoxyjaSw.png" group-title="IT ✪ SPORT",SKY SPORT 257 HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISWVhZTErMXViaWpOMERVZnlJWFBzMmRpN1lwNzdZelBYM3ZTNHQydXM1MA
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 258 FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xEjWMJ93G7xkk8hyUSS7vu8GicGCT3oLPZ5UMMzXtoNw.png" group-title="IT ✪ SPORT",SKY SPORT 258 FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIS29RWnFjblRXQVRockhWc2FkNzk0TFhLM1lXRklET2FKOVM1RlRDZjc4eg
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 258 HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xdO6TpAdZjmBifvG5CY-ZRcYSEe8Ala5VoENLoxyjaSw.png" group-title="IT ✪ SPORT",SKY SPORT 258 HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIT1RZWm1lVnoxRXFHSGpVVXlsYmpodFRMbGhsRUwyOVZvc0JZdUcyTjVQSA
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 259 FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xEjWMJ93G7xkk8hyUSS7vu8GicGCT3oLPZ5UMMzXtoNw.png" group-title="IT ✪ SPORT",SKY SPORT 259 FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIRGZ6VE5ocTB5azdYQkZBM1ZzMW5OVlpoWW9YRktrVkJZb0oxa3hJbWRZQg
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 259 HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xdO6TpAdZjmBifvG5CY-ZRcYSEe8Ala5VoENLoxyjaSw.png" group-title="IT ✪ SPORT",SKY SPORT 259 HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIQXJiMy9XNlhWRDJsS2xvdllXM2NlWEtGTWFzZ2xDSWtsSG1JaUFQTVF6Zw
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 260 FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xEjWMJ93G7xkk8hyUSS7vu8GicGCT3oLPZ5UMMzXtoNw.png" group-title="IT ✪ SPORT",SKY SPORT 260 FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIQzZaUTNrbUxhS1VpK0V1bEkwa3JhMkZpK1BjTlpLVEVac0JuQzhqVlgvRQ
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 260 HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xdO6TpAdZjmBifvG5CY-ZRcYSEe8Ala5VoENLoxyjaSw.png" group-title="IT ✪ SPORT",SKY SPORT 260 HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIUDhJc3lWMS84SENlcnJvZm0rWHV3TE1NUXpMNjA5QlN3cGt4UUNTSU5ZZw
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 261 FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xEjWMJ93G7xkk8hyUSS7vu8GicGCT3oLPZ5UMMzXtoNw.png" group-title="IT ✪ SPORT",SKY SPORT 261 FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISlNvUmFXWFZ2OEdRNDVURkZBRndweEJVVE1pM2RYZ3lmWWh6U1hqZEFILw
+#EXTINF:-1 tvg-id="SkySport261.it" tvg-name="SKY SPORT 261 HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xdO6TpAdZjmBifvG5CY-ZRcYSEe8Ala5VoENLoxyjaSw.png" group-title="IT ✪ SPORT",SKY SPORT 261 HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIQmc5N3AwcThCamNSTmdLN29HaTBjMEZ1VFBybHFpcW1NVmMzdUswVWEycw
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT ARENA FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xEjWMJ93G7xkk8hyUSS7vuuX4FPOusLpX7InB48UYgT5pzLno6Owhbp-hNOWn1WNo.png" group-title="IT ✪ SPORT",SKY SPORT ARENA FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIT1Q1TXJoS3dWSlhpMy91WkZkek1QejF5Vnpva1ZjQW4xN1V4M3NOd2NsTA
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT ARENA HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xdO6TpAdZjmBifvG5CY-ZRraeLdX7iSL7b_j2nfpp0LA.png" group-title="IT ✪ SPORT",SKY SPORT ARENA HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIRkNCeUV6Slo1cXpHTUhCM2g0SGhnb0d4OVhoa0hCbEVEb1FIbFZKclMrdQ
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT ARENA HEVC" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xEjWMJ93G7xkk8hyUSS7vuuX4FPOusLpX7InB48UYgT5pzLno6Owhbp-hNOWn1WNo.png" group-title="IT ✪ SPORT",SKY SPORT ARENA HEVC
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIT1dOM2ZHMDkwV0FFZElVcC9WWUMzTzBsdDlwNVA5S2crNys0V3FtMEFVMg
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT CALCIO FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xEjWMJ93G7xkk8hyUSS7vulUaAGxLX5bXCxRvAUrsZryHK_v5fHCv7UDd7j5i-vx8.png" group-title="IT ✪ SPORT",SKY SPORT CALCIO FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIR210OEpuK1N5WkFnUlYwSW5YOWFnNWsrK1BvQ21pWnRHbUloQTFjL091Sg
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT CALCIO HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xdO6TpAdZjmBifvG5CY-ZRWJQu4bl61KRtoAbK29tFSA.png" group-title="IT ✪ SPORT",SKY SPORT CALCIO HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIT3IxY0RjQlVBbnJFeDJNTjJwZ0dUMjlVVHpvSVlOZ1hIZGNrd1Q1dHVSOA
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT CALCIO HEVC" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xEjWMJ93G7xkk8hyUSS7vulUaAGxLX5bXCxRvAUrsZryHK_v5fHCv7UDd7j5i-vx8.png" group-title="IT ✪ SPORT",SKY SPORT CALCIO HEVC
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIRjFyMkF3Z28rL2hxRWI1U0FzdW5rWkQwdEJnTzljeCt5UmFpUThQditLNw
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT F1 FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xEjWMJ93G7xkk8hyUSS7vuM5HUsKZCr_f54VPZIdNXeBHvboEc3KXe4YZkpxQ6q4M.png" group-title="IT ✪ SPORT",SKY SPORT F1 FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISmVzL3ZRZzhXbEQ3WG1jN0RLYnRzdWxGZFppb29HcEJLRmowUEt6M1BtWQ
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT F1 HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xdO6TpAdZjmBifvG5CY-ZRnqw2-KpoBz4L2_Xgq2K2FQ.png" group-title="IT ✪ SPORT",SKY SPORT F1 HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISWo0Y1h6djdpaTZMd21TU01vSHEwU3luM1dTWEpaWTMrQ0dNUUl0M0U3OQ
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT F1 HEVC" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xEjWMJ93G7xkk8hyUSS7vuM5HUsKZCr_f54VPZIdNXeBHvboEc3KXe4YZkpxQ6q4M.png" group-title="IT ✪ SPORT",SKY SPORT F1 HEVC
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBITG5ZbEdFaVNoMS9vVEMwSGZpdXN0dUtnNFppcWE0bHl5Y0xpb2pwVGk4Mg
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT FOOTBALL FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xEjWMJ93G7xkk8hyUSS7vuiBwn4QsSV-jnuWeupPupsfucBIPnIEa8ITHoHmlckgw.png" group-title="IT ✪ SPORT",SKY SPORT FOOTBALL FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISGh4MFVLQTdSdVd3MU1IcGI0VDZwMHJka2hPR3RHOWhreUJXS04vcVZCSA
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT FOOTBALL HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xdO6TpAdZjmBifvG5CY-ZRCgMqmIxW_1FJu8Y4YUVzOeXZoqqGKhUEXrQ8M4NDrfM.png" group-title="IT ✪ SPORT",SKY SPORT FOOTBALL HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISEVSWFk0TEZvL0cvZHhTd3lRNUVVMzlaM1JNQ3BFZ0xIY2VRbllxSU1yZg
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT FOOTBALL HEVC" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xEjWMJ93G7xkk8hyUSS7vuiBwn4QsSV-jnuWeupPupsfucBIPnIEa8ITHoHmlckgw.png" group-title="IT ✪ SPORT",SKY SPORT FOOTBALL HEVC
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIT1d1TkRqUG41K0V4Rm1VdDdvWUVGb2YxOEVBUFFtTlhUemZRc2hKRDgvYw
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT MOTOGP FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xEjWMJ93G7xkk8hyUSS7vudL512M7mAkxLrdYa7WVVgAv3VtBFSAqbBiNjOp8yOW4.png" group-title="IT ✪ SPORT",SKY SPORT MOTOGP FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIREtTNWNjY1E0a2wvRFpjRWdUU2wyM204N2Iyc0c5bXZsdGQ0ZzhLQURFSQ
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT MOTOGP HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xdO6TpAdZjmBifvG5CY-ZRRGnph8lqYGKqFwN2V7kN_g.png" group-title="IT ✪ SPORT",SKY SPORT MOTOGP HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISHB2WlVvR0FLbGc2T1Y1cCt2b1VwUDVtNU5qRnFxRjg3OTA2ejl3c05TTA
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT MOTOGP HEVC" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xEjWMJ93G7xkk8hyUSS7vudL512M7mAkxLrdYa7WVVgAv3VtBFSAqbBiNjOp8yOW4.png" group-title="IT ✪ SPORT",SKY SPORT MOTOGP HEVC
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIRWJwYkRZRWt5dlBWWWtIN2I0RGxOY2Q3ODBXNkJJcjRPYmQrZHBlR3FMTw
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT NBA FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xEjWMJ93G7xkk8hyUSS7vuMfGvsRFlQhJk0h30Vu_tZUoCjUWqTJrBfqeaLQCdFww.png" group-title="IT ✪ SPORT",SKY SPORT NBA FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIRVVRdFR1Q0pNWUpHajhSREU1Tll1Q3dOK2djWmhnOFVhT0JCSWpqZ004NQ
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT NBA HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xdO6TpAdZjmBifvG5CY-ZR_Ly1XdVFClvRvwK0InBS9A.png" group-title="IT ✪ SPORT",SKY SPORT NBA HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIS05qMW90TDR6UzJFL2VSbHVYdFpJYUdsZGhDckFGRC9nNno2RnBib0RvWQ
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT NBA HEVC" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xEjWMJ93G7xkk8hyUSS7vuMfGvsRFlQhJk0h30Vu_tZUoCjUWqTJrBfqeaLQCdFww.png" group-title="IT ✪ SPORT",SKY SPORT NBA HEVC
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISGxwYXZob3kwdmRKUlVHWVNka0RSd1YvSmZYN3JVNVZlYldTQm9ieWVXVg
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT TENNIS FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xEjWMJ93G7xkk8hyUSS7vu9cKGFok49QkohERwdIILVDF2JhY149ax_Kzmqj65KMY.png" group-title="IT ✪ SPORT",SKY SPORT TENNIS FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBITjRlZXlCNVRhTEszSHk1Mno4a1hDM1h2b2VKdXhDbSsrS0QxdDJxYVlOVg
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT TENNIS HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xdO6TpAdZjmBifvG5CY-ZRNYKl_PyfJXPVURgoZuUE9A.png" group-title="IT ✪ SPORT",SKY SPORT TENNIS HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIRE12OExXTWJEeVdWVkh5ZjBoR09VV2cxTk9kdmo4enp0YVFFVVlUb3VkZg
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT UNO FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xEjWMJ93G7xkk8hyUSS7vuF2sbvzeYcQlo0_sQNgLdRlfLnitgsY51fJMiZ2vWncg.png" group-title="IT ✪ SPORT",SKY SPORT UNO FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIRHVHakpTeU5CYnF0UDVUVnhBclNrOUlCaVVzckFTWHZUZmQvL1JOQUh1Zg
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT UNO HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xdO6TpAdZjmBifvG5CY-ZRoS0Su5Ex40Jm5xHzTqyxKw.png" group-title="IT ✪ SPORT",SKY SPORT UNO HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBITnNsVWhxbFBBcG9qQ2FFdWVwNElHTTlPQ2pPR0EzUDRTeDZ3Z2VuNXMyUw
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT UNO HEVC" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xEjWMJ93G7xkk8hyUSS7vuF2sbvzeYcQlo0_sQNgLdRlfLnitgsY51fJMiZ2vWncg.png" group-title="IT ✪ SPORT",SKY SPORT UNO HEVC
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBITXdxUW8zTkY3MHQ3eStMNnJ0dm5pM0Q2bko2YkJHZFlxTmVKWHZjQ0NTTw
+#EXTINF:-1 tvg-id="" tvg-name="SKY TG24 HEVC" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/skytg24.png" group-title="IT ✪ ITALIA HEVC",SKY TG24 HEVC
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIRWZrdGVQTDJ1SzBKZmV4L1dNS2d3cUJ2NzBIb043ZTlYMzN5ek1UNllkZQ
+#EXTINF:-1 tvg-id="skyuno.it" tvg-name="SKY UNO" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/skyuno.png" group-title="IT ✪ ITALIA",SKY UNO
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIQWZVbjFBNnRIYisvbW5NS2xKdGYzeXRTN2h4aHJiOCt6NWI3dzJFNVRXbA
+#EXTINF:-1 tvg-id="skyuno.it" tvg-name="SKY UNO HEVC" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/skyuno.png" group-title="IT ✪ ITALIA HEVC",SKY UNO HEVC
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIRWZrdGVQTDJ1SzBKZmV4L1dNS2d3b3JYcm45NHQ0UXVGTFdpSEhCOFIvUg
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xWse_dE1aXWu2G5CSSuk15CWiYd3ZtfJ6dAsNxpgv6Tw.png" group-title="IT ✪ SPORT",EUROSPORT 1 FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIRGs0US9LbmdDNk56MGVheVUrd0ZFK2gvREVKZmxabWFMSEx6eFJEcUNIUg
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xWse_dE1aXWu2G5CSSuk15lvmFup5UnEnbe9JiBauY_g.png" group-title="IT ✪ SPORT",EUROSPORT 1 HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIRkpIY0J0aE9STGhacGt4OEJkQjNuMmpUbHVMSWx2aURvVjgwSzJFeUZVSg
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xWse_dE1aXWu2G5CSSuk15YXcwbFlSs1vp4X4fqtJWew.png" group-title="IT ✪ SPORT",EUROSPORT 2 FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISkJYWVVJbzZJS3NrTVN0cGJNN1pTWXVGazhDOExBT3ZjaXc2aFFqUzlnSw
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xWse_dE1aXWu2G5CSSuk15nrtwSAwSLCs7Q64b5Ks31Q.png" group-title="IT ✪ SPORT",EUROSPORT 2 HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBITjVCSjJVTzBNSkV1d1FGNEVtd3lLNC83VWk1Z0hiZWdtRzVVZFo5U05CMg
+#EXTINF:-1 tvg-id="" tvg-name="SUPER TENNIS FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9x8pntgr3EDLlueV1fH7kefsLr4K0DOuIXM6l_J5wkb5A.png" group-title="IT ✪ SPORT",SUPER TENNIS FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBISVVWUFNEYmNVL2xTSWNkRG9Ka2swOWJ1RTJBVnptaHVjaGtQUENnSE00RA
+#EXTINF:-1 tvg-id="" tvg-name="SUPER TENNIS HD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9x8pntgr3EDLlueV1fH7kefsLr4K0DOuIXM6l_J5wkb5A.png" group-title="IT ✪ SPORT",SUPER TENNIS HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBITTJ6eUNuQU9QWmNEb05OSmU2UVRXTnVmaWh1QTk5Vi9nVjlFTTRicEZLQg
+#EXTINF:-1 tvg-id="" tvg-name="FOX FHD" tvg-logo="http://xc.contact:80/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xEAbetuqWFHz-hOIhi_dLMAemRMCWJOD8TRcNOJcTzIQ.png" group-title="IT ✪ CINEMA-PRIMA FILA",FOX FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIQVV0bEFXMDNxdU12a0NiVTg3ODZOeGg3MktWZ3I5VmdPVFpESnc5cThLeg
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="http://xc.contact:80/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9zgDPJ-etpOneqk3TWDTZVS_lTfXJ0OY3iXVdWyDIOIpA.png" group-title="IT ✪ CINEMA-PRIMA FILA",FOX HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBITExoVEdkWm1qbE9YdWF6eWJ1THNNTHpTcnUrRDhwQ21BYTlTYlFmMys0ZA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ==========================================
+# DADDYLIVE / DLHD FREE CHANNELS (no account needed)
+# Headers required: Referer=https://jxoxkplay.xyz/
+# ==========================================
+#EXTINF:-1 tvg-id="Sky.Serie.it" tvg-name="Sky Serie Italy" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-serie-it.png" group-title="IT ✪ SKY",Sky Serie Italy
+#EXTVLCOPT:http-origin=https://jxoxkplay.xyz
+#EXTVLCOPT:http-referer=https://jxoxkplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://windnew.newkso.ru/wind/premium880/mono.m3u8
+#EXTINF:-1 tvg-id="Sky.Sport.Golf.it" tvg-name="Sky Sports Golf Italy" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sport-golf-it.png" group-title="IT ✪ SPORT",Sky Sports Golf Italy
+#EXTVLCOPT:http-origin=https://jxoxkplay.xyz
+#EXTVLCOPT:http-referer=https://jxoxkplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://ddy6new.newkso.ru/ddy6/premium574/mono.m3u8
+#EXTINF:-1 tvg-id="LA7D.it" tvg-name="LA7d HD+ Italy" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/la-7d-italy.png" group-title="Italy",LA7d HD+ Italy
+#EXTVLCOPT:http-origin=https://jxoxkplay.xyz
+#EXTVLCOPT:http-referer=https://jxoxkplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://windnew.newkso.ru/wind/premium856/mono.m3u8
+
+#EXTINF:-1 tvg-name="TV8 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/tv8.png" tvg-id="tv8.it" tvg-chno="8" tvg-country="IT" group-title="Italy",TV8 FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIRVNQSWNXMjRRdDI1SFNob0srR1E0Y0RPYWNHU0pDSWdLNGdrU2E0MVFrbg
+#EXTINF:-1 tvg-name="TV8 HEVC" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/tv8.png" tvg-id="tv8.it" tvg-chno="8" tvg-country="IT" group-title="Italy",TV8 HEVC
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIRWZrdGVQTDJ1SzBKZmV4L1dNS2d3b1VqQ3A4T28yOERTQVhzb1ZGNytlMA
+#EXTINF:-1 tvg-name="Cielo FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/cielo.png" tvg-id="cielo.it" tvg-chno="26" tvg-country="IT" group-title="Italy",Cielo FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIT0VQREVjRmZJbVBrS0ZTVHk3c2FCNDViOUJQV0NFMjJHRGY0QUVuZWJUQw
+#EXTINF:-1 tvg-name="Cielo HEVC" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/cielo.png" tvg-id="cielo.it" tvg-chno="26" tvg-country="IT" group-title="Italy",Cielo HEVC
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIUGNhOVQ5bWVKcjQrTFlsb3g2SnltaWlhUU9RYXFMd0c2MDE2Sm5LTVlhaQ
+#EXTINF:-1 tvg-name="IRIS FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/iris.png" tvg-id="iris.it" tvg-chno="22" tvg-country="IT" group-title="Italy",IRIS FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBITHZVODgvM2lwV1hBOEE1VWsyNlNUYnVlZzB3aDM3S2hHYUFmbm8vaXdGUQ
+#EXTINF:-1 tvg-name="IRIS HD" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/iris.png" tvg-id="iris.it" tvg-chno="22" tvg-country="IT" group-title="Italy",IRIS HD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIRzcxWis3Y3VsdVkwSGxINlNPUWR1NlJ5Z2ZuWHdkNkpxTlNoNHQ0YXl2eg
+#EXTINF:-1 tvg-name="Food Network FHD" tvg-logo="https://tvlogo.nl/files/ch/HOLLANDA/FOODNETWORK.png" tvg-id="foodnetwork.it" tvg-chno="33" tvg-country="IT" group-title="Italy",Food Network FHD
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIS21ZUFlPSzlBSzd0YnBaRlRRd25GK0JLNXNwOW02QVA5dThjZ2t4cWdiaQ
+#EXTINF:-1 tvg-name="Food Network HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/germany/foodnetwork.png" tvg-id="foodnetwork.it" tvg-chno="33" tvg-country="IT" group-title="Italy",Food Network HEVC
+http://hsneu.com:8080/R1NDMlUrQ3A4LzJIUWcraVFFVnBIUGNhOVQ5bWVKcjQrTFlsb3g2SnltaGcySTBhcW5nVm5FdklBQ0czaXRHMw
