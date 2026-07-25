@@ -1,6 +1,9 @@
 config.ini
 state.db
+state.db-shm
+state.db-wal
 temp/
 *.log
 __pycache__/
 *.pyc
+italian_tv.m3u
